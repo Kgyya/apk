@@ -11,4 +11,4 @@ python3 apk.py
 ```
 
 # Hasil:
-![img](https://github.com/Kgyya/blob/main/Screenshot_2021_0402_204838.jpg)
+![img](https://github.com/Kgyya/apk/blob/main/Screenshot_2021_0402_204838.jpg)
