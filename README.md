@@ -7,6 +7,7 @@ apt install python
 pip install requests
 pip install bs4
 git clone https://github.com/Kgyya/apk
+python3 apk.py
 ```
 
 # Hasil:
